@@ -1,6 +1,5 @@
 function template(data) {
     return`# ${data.Title}
-  [![GitHub license]](https://github.com/${data.Username}/${data.Title})
   
   # Description
   
