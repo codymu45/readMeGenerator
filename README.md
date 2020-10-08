@@ -1,5 +1,5 @@
 # ReadMe Generator
-  [![GitHub license]](https://github.com/undefined/readMeGenerator)
+  [![GitHub license]](https://github.com/codymu45/readMeGenerator)
   
   # Description
   
